@@ -1,0 +1,15 @@
+C:\workspace\CBF Aulas\aula02\bin\Debug\net6.0\aula02.exe
+C:\workspace\CBF Aulas\aula02\bin\Debug\net6.0\aula02.deps.json
+C:\workspace\CBF Aulas\aula02\bin\Debug\net6.0\aula02.runtimeconfig.json
+C:\workspace\CBF Aulas\aula02\bin\Debug\net6.0\aula02.dll
+C:\workspace\CBF Aulas\aula02\bin\Debug\net6.0\ref\aula02.dll
+C:\workspace\CBF Aulas\aula02\bin\Debug\net6.0\aula02.pdb
+C:\workspace\CBF Aulas\aula02\obj\Debug\net6.0\aula02.csproj.AssemblyReference.cache
+C:\workspace\CBF Aulas\aula02\obj\Debug\net6.0\aula02.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\CBF Aulas\aula02\obj\Debug\net6.0\aula02.AssemblyInfoInputs.cache
+C:\workspace\CBF Aulas\aula02\obj\Debug\net6.0\aula02.AssemblyInfo.cs
+C:\workspace\CBF Aulas\aula02\obj\Debug\net6.0\aula02.csproj.CoreCompileInputs.cache
+C:\workspace\CBF Aulas\aula02\obj\Debug\net6.0\aula02.dll
+C:\workspace\CBF Aulas\aula02\obj\Debug\net6.0\ref\aula02.dll
+C:\workspace\CBF Aulas\aula02\obj\Debug\net6.0\aula02.pdb
+C:\workspace\CBF Aulas\aula02\obj\Debug\net6.0\aula02.genruntimeconfig.cache
